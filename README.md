@@ -61,6 +61,9 @@ https://www.exploit-db.com/exploits/37598
 
 ### Решение 2
 
+Добавил дампы Wireshark:
+
+
 1. SYN-сканирование (-sS)
 - Отправляет SYN-пакет
 - Если порт открыт — получает SYN-ACK
