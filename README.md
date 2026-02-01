@@ -62,7 +62,10 @@ https://www.exploit-db.com/exploits/37598
 ### Решение 2
 
 Добавил дампы Wireshark:
-
+https://github.com/Divan4eg/cybersec-hw/blob/main/wireshark/-sS.pcapng
+https://github.com/Divan4eg/cybersec-hw/blob/main/wireshark/-sA.pcapng
+https://github.com/Divan4eg/cybersec-hw/blob/main/wireshark/-sX.pcapng
+https://github.com/Divan4eg/cybersec-hw/blob/main/wireshark/-sU.pcapng
 
 1. SYN-сканирование (-sS)
 - Отправляет SYN-пакет
