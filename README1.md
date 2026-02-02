@@ -10,13 +10,13 @@
 ### Решение 1
 
 Создал пользователя и 2 файла в домашней директории:
-![Решение1](https://github.com/Divan4eg/database_hw/blob/main/img/1.png)
+![Решение1](https://github.com/Divan4eg/cybersec-hw/blob/main/img/1.png)
 
 После этого от имени root зашифровал домашнюю директорию:
 ```
 ecryptfs-migrate-home -u cryptouser
 ```
-![Решение1](https://github.com/Divan4eg/database_hw/blob/main/img/1.png)
+![Решение1](https://github.com/Divan4eg/cybersec-hw/blob/main/img/2.png)
 
 ### Задание 2
 
