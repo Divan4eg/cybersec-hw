@@ -26,3 +26,9 @@ ecryptfs-migrate-home -u cryptouser
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 ### Решение 2
+
+Выполнил по инструкции из презентации, итог на последнем скриншоте - зашифрованный раздел .secret
+
+![Решение1](https://github.com/Divan4eg/cybersec-hw/blob/main/img/3.png)
+![Решение1](https://github.com/Divan4eg/cybersec-hw/blob/main/img/4.png)
+![Решение1](https://github.com/Divan4eg/cybersec-hw/blob/main/img/5.png)
